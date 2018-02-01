@@ -1,0 +1,10 @@
+
+Etusivun tiedot muutettavissa (aika, paikka, kesto)
+Ilmoittautuminen ja sen hallinta
+Määrä
+Aluekartta + paikanvaraus
+
+Turnausten hallinta, nimet, palkinnot, koko, aika, peli
+Turnaukseen ilmoittautuminen
+
+Ulkoasu nuorekas
